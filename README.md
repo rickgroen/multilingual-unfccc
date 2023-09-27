@@ -16,7 +16,7 @@ nltk.download('stopwords')
 ## Downloading our data
 First, fill out which **DATA_FOLDER** you are using in [config.py](config.py).
 
-Then, if you are using a Windows machine, navigate to [our Zenodo repository](https://zenodo.org/record/8379988) and download *embeddings.zip* and *overview.csv*. 
+Then, if you are using a Windows machine, navigate to [our Zenodo repository](https://zenodo.org/record/8379988) and download *embeddings.zip*, *docs.zip*, and *overview.csv*. 
 Put both these files in your **DATA_FOLDER**. Extract *embeddings.zip*.
 
 If you are using Linux, our data can be downloading and extracted by running
