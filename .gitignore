@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+*.jpeg
+*/__pycache__/
+__pycache__/
+*.out
+
+output/
+!output/.gitkeep
+
+data/
